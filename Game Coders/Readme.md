@@ -9,7 +9,7 @@ This part of the repository is maintained by:
 
 **Mentees** 
     * Girish Sontakke - https://github.com/girishsontakke
-    * <Rajdeep Majumder> - (https://github.com/Rajdp07)
+    * Rajdeep Majumder - (https://github.com/Rajdp07)
 
 Looking forward to a wonderful journey! :tada:
 
